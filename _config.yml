@@ -67,7 +67,7 @@ url-pretty: "250aday.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "250aday"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-46189469-7"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
