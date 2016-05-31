@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Or, really, about this blog
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Adam Michael Wood. I'm a writer, web developer, and project manager. I'm also a church musician, composer, liturgist, theologian, and philosopher. Also a dad and husband.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This blog is a record of my personal journey towards automating my income so that I can $250 a day with minimal time spent each week.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you want to learn more about me, see my personal website: [adammichaelwood.com](http://adammichaelwood.com).
