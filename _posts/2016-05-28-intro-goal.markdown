@@ -2,11 +2,11 @@
 layout: post
 title:  "Intro and Goal"
 subtitle: "What am I doing? And why?"
-date:   2016-06-01
+date:   2016-05-31
 
 ---
 
-Today is the first day of June, the beginning of the summer.
+Today is the last day of May, the beginning of the summer.
 
 My second son is a week old. My first son is going to be three in a couple months. My wife, who just had a C-section, just finished the semester of seminary, and has two (part-time) years left.
 
