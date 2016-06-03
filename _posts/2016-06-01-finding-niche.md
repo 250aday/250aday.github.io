@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding an affiliate marketing niche"
-date:   2016-06-01 00:09:00
+date:   2016-06-01 09:00:00
 
 ---
 
