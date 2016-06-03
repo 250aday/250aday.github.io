@@ -2,6 +2,7 @@
 layout: post
 title:  "$250 a day: Initial Plan"
 date:   2016-06-02
+bigimg: /img/steal-underpants.jpg
 
 ---
 
