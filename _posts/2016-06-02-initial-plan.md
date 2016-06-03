@@ -43,9 +43,9 @@ So, my initial thinking is to create my own low-end version of these sites.
 
 ## List, hub, spokes
 
-The primary goal (aside from direct sales) will be to build an email list. Everything I have suggests that [building your list](.) is the most valuable thing you can do, so that's where I want to start.
+The primary goal (aside from direct sales) will be to build an email list. Everything I have suggests that [email is the fastest way to make money](https://medium.com/swlh/9-email-marketing-secrets-for-getting-3x-more-subscribers-78a20d236b), so that's where I want to start.
 
-As per [the usual advice](.), I will give away a valuable piece of info (a PDF report on something) in exchange for email addresses.
+As per [the usual advice](https://medium.com/@annacolibri/email-marketing-how-to-build-your-email-list-3dada3dad05e), I will give away a valuable piece of info (a PDF report on investing strategy) in exchange for email addresses.
 
 The email-list/get-your-free-report form will be:
  - on one or more landing pages of a site
@@ -56,7 +56,7 @@ The email-list/get-your-free-report form will be:
 
 ### The Hub
 
-Following [Chris Brogan's advice](.), the "hub" will be a website (WordPress, of course, on my [Bluehost](http://bluehost.com/track/socialbootstrap) account). Content of the site will be:
+Following [Chris Brogan's advice](http://chrisbrogan.com/a-simple-presence-framework/), the "hub" will be a website (WordPress, of course, on my [Bluehost](http://bluehost.com/track/socialbootstrap) account). Content of the site will be:
 
  - Editorials by me. I can write about one post a day, on a variety of related topics. If I can move to this being a full-time job, I can write three or four articles a day.
  - News roundups, which I can automate and publish daily.
@@ -77,7 +77,7 @@ I already have a number of Facebook friends in one or more of the categories lis
 
 Another major spoke (I hope) is YouTube. This is tentative, but I believe I can make it work. Basically, my initial plan is to simply record myself reading my articles and news roundups, and publish them as videos. At some point in the future YouTube could turn into a platform for original content, but simply using it as a "syndication" platform is a place to start.
 
-Everything else will be a straight syndication platform, at least at first. I don't really have time to get involved with Twitter or Tumblr, or anywhere else --- but I can use [IFTTT](.) to automatically spew my content all over, where someone might find it.
+Everything else will be a straight syndication platform, at least at first. I don't really have time to get involved with Twitter or Tumblr, or anywhere else --- but I can use [IFTTT](https://ifttt.com/) to automatically spew my content all over, where someone might find it.
 
 My spoke list is the usual suspects, and I feel like most of those decisions are pretty obvious.
 
@@ -98,18 +98,28 @@ I don't have a specific plan in place for this yet, but I'm mentioning it here s
 
 I consider SEO to be a long-term project, especially in an established market niche. So, I'm not going to worry about it too much --- at least not right now. I will, of course, make sure my on page SEO is as good as possible, and try not to make any big blunders, but I don't really see how organic search can be a major component if my goal timeframe is so short (threeish months).
 
-As for PPC --- I want to get into it. But I don't have a lot of money at the moment. My plan is to do all the free things I can do and then, once I get _any_ money at all, turn that around and start doing PPC experiments. That is, I am _bootstrapping_ this operation. I can't afford to just throw a bunch of money at PPC to see what, if anything, works.
+As for PPC --- I want to get into it. But I don't have a lot of money at the moment. My plan is to do all the free things I set up all the free things I can do first, and _then_ start some small experiments with PPC ads. Part of the reason for this is that if I can't get myself together enough to do the free stuff, it isn't really worth throwing money at, either. The free period is as much a test of my commitment as it a bootstrap.
 
 ### What will be in the emails?
 
-I will have to experiment with this, obviously, but my thinking is that subscribers will get something twice a week --- one longer editorial (probably not written by me) and one "listicle" sort of thing, like a better news roundup or a something sort of like the [5-Bullet Friday](.).
+I will have to experiment with this, obviously, but my thinking is that subscribers will get something twice a week --- one longer editorial (probably not written by me) and one "listicle" sort of thing, like a better news roundup or a something sort of like the [5-Bullet Friday](http://go.fourhourworkweek.com/10x-output/).
 
 ### What will the "free PDF report" have in it?
 
-I've already started drafting this. My current piece is something like "Contrarian Investor Guide". I will A/B test some titles, but the content is essentially a series of headlined tips about how to be an informed investor --- what to read, how to think, what to ignore. It's practical, good advice. It also include a number of links to books (Amazon affiliate), newsletters, and other products: all the same stuff I will also be promoting in the emails and on the site.
+I've already started drafting this. My current piece is something like "Contrarian Investor Guide". I will A/B test some titles, but the content is essentially a series of headlined tips about how to be an _informed investor_ --- what to read, how to think, what to ignore. It's practical, good advice. It also include a number of links to books (Amazon affiliate), newsletters, and other products: all the same stuff I will also be promoting in the emails and on the site.
+
+I've also recently read about creating a bunch of [context-specific email sign-up incentives](https://medium.com/swlh/9-email-marketing-secrets-for-getting-3x-more-subscribers-78a20d236b), and I really like that idea --- so I'm going to work on that once I have some contexts. But this main PDF will be in the sidebar and, if I do PPC ads for my list (is that a good idea?!?) will be what I promote.
 
 ## Secondary sites?
 
 There is one thing I am really unclear about in my current thinking, and I would really appreciate any advice you might have on the subject.
 
 I have more than one useful domain name, but one in particular I'm thinking about using --- it's general enough to appeal to a broad selection of the above-mentioned groups. But I'm also thinking about setting up some secondary sites that would publish their own content but advertise for the same email list.
+
+I don't know if that would be a good idea to create a larger footprint, or if it would just be a distraction.
+
+## Thoughts? Ideas? Help?
+
+I will begin executing on this plan in the next couple days. I'm already writing my PDF guide. Then I'll make a final decision on a domain name and start putting things online as quickly as possible.
+
+Any idea or advice for this stage, to help get me off on the right foot?
