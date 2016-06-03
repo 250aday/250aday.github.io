@@ -33,4 +33,4 @@ It is more and more obvious to me that this is the real challenge.
 
 ***
 
-<small>_Photo by Flickr user **fdecomite**. CC BY 2.0_</small>
+<small>[_Photo by Flickr user **fdecomite**. CC BY 2.0_](https://flic.kr/p/5RtWxh)</small>
