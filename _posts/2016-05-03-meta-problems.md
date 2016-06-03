@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meta Problems"
-date:   2016-06-02
+date:   2016-06-03
 bigimg: /img/recursive-chess.jpg
 ---
 
