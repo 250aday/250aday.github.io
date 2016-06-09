@@ -2,7 +2,7 @@
 layout: post
 title:  "Affirmations at the Command Line"
 subtitle: "Creating a CLI for Goals"
-date:   2016-06-02
+date:   2016-06-09
 bigimg: /img/affirmations-cli.png
 ---
 
@@ -25,7 +25,7 @@ So, if the whole thing is a trick of psychology (and I strongly believe that it 
 
 So that's what I did. I wrote a little [Python script for writing affirmations at the command line](https://gist.github.com/adammichaelwood/c58fa55350cce2f46ad0027f4c4e2097).
 
-<!-- gist here -->
+<script src="https://gist.github.com/adammichaelwood/c58fa55350cce2f46ad0027f4c4e2097.js"></script>
 
 Here's how it works:
 
@@ -63,6 +63,12 @@ Secondly, along with that, it gives me time to reflect on the affirmation. It's 
 Finally --- and this is crazy --- it provides me the illusion that the computer is _working on the problem_.
 
 Computers are magic boxes that **only do what you tell them to do**. My rational mind knows that the time delay is caused by the `time.sleep()` function and that the delay will be some randomized fraction of a second, and that nothing is happening. But my irrational mind thinks, "I just commanded my magic light box to make me rich, and now it is working on that problem."
+
+### Bonus: The best import statements, ever
+
+I had to import three modules to do all the added silly things. Scroll back up and look at them.
+
+In my original, non-random, non-colored, non-delayed version, I didn't need them. After I finished I realized I couldn't have asked for a better set of module names to import. 
 
 ## Will all this work?
 
